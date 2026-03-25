@@ -35,3 +35,7 @@ Make sure you have Python 3 installed, then run:
 ```bash
 python student_profile.py
 ```
+
+## About
+This project is part of my ML learning journey as an incoming
+MS Information Science student at the University of Pittsburgh, Fall 2026.
